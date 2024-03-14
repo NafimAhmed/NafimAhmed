@@ -32,7 +32,4 @@
 
 <p><img align="left" src="https://user-images.githubusercontent.com/27622683/178366289-7ae3cc02-ef2a-4ef2-8d38-ff502920772e.png" alt="nafim-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafim-ahmed&show_icons=true&locale=en" alt="nafim-ahmed" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafim-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="nafim-ahmed" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nafim-ahmed" alt="nafim-ahmed" /></a> </p>
