@@ -38,11 +38,13 @@
 
 ---
 
+---
+
 ## 🚀 Published / Live Apps
 
 | App | Type | Description | Play Store | App Store |
 |---|---|---|---|---|
-| **Express ERP** | Enterprise ERP Mobile App | ERP mobile application for PRAN-RFL Group business operations, inventory, workflow, QR scanning, reporting, and internal automation | [Play Store](#) | [App Store](#) |
+| **Express ERP** | Enterprise ERP Mobile App | ERP mobile application for PRAN-RFL Group business operations, inventory, workflow, QR scanning, reporting, and internal automation | [Play Store](https://play.google.com/store/apps/details?id=com.pranrfl.express_erp&pcampaignid=web_share) | [App Store](#) |
 | **Cripton ERP** | ERP Mobile App | Business ERP mobile application built for enterprise operations, HR, approval workflow, requisition, and business management | [Play Store](https://play.google.com/store/apps/details?id=com.worknestor.criptonpro) | [App Store](https://apps.apple.com/us/app/cripton-erp/id6478108512) |
 | **Enorsia E-commerce** | E-commerce App | Flutter-based e-commerce mobile application with shopping, product browsing, and modern customer experience | [Play Store](#) | [App Store](https://apps.apple.com/in/app/enorsia/id6470290654) |
 
