@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C7B7,100:0F172A&height=230&section=header&text=Nafim%20Ahmed%20Recent&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer%20%7C%20ERP%20App%20Developer%20%7C%20AI%20Engineer%20%7C%20Chatbot%20Developer&descAlignY=60&descSize=17" />
@@ -167,14 +166,6 @@ Artificial Intelligence       ██████████████░░�
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=NafimAhmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -211,14 +202,6 @@ Artificial Intelligence       ██████████████░░�
   <a href="mailto:recentnafimahmed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-recentnafimahmed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-## 💡 Motto
-
-<p align="center">
-  <b>“Build clean, useful, and scalable software that solves real business problems.”</b>
 </p>
 
 ---
